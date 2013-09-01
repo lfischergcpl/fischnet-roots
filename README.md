@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Roots Theme](http://roots.io/)
 
 Roots is a WordPress starter theme based on [HTML5 Boilerplate](http://html5boilerplate.com/) & [Bootstrap](http://getbootstrap.com/) that will help you make better themes.
@@ -80,3 +81,7 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 ## Support
 
 Use the [Roots Discourse](http://discourse.roots.io/) to ask questions and get support.
+=======
+fischnet-roots
+==============
+>>>>>>> 660a85bd0e7c9afe63697b641074352e59aeba7b
